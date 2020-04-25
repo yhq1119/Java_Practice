@@ -1,0 +1,8 @@
+#root {
+    -fx-spacing: 5;
+    -fx-padding: 5, 5, 5 ,5;
+}
+
+.TilePane:hover{
+    -fx-background-color: -fx-shadow-highlight-color, -fx-outer-border, -fx-inner-border, -fx-body-color;
+}
